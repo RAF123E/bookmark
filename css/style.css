@@ -1,0 +1,67 @@
+.bord-dote{
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;
+}
+body{
+    background-color: #F7ECDE;
+}
+h1{
+    font:500 50px/60px 'Pacifico', cursive;
+}
+.book
+{
+    width: 20%;
+    height: 20px;
+    background-color:#FEC260;
+    isolation: isolate;
+    position: absolute;
+    bottom:  83%;
+    left: 40%;
+    z-index: -1;
+}
+h2{
+    font: 25px "Righteous", cursive;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    background-clip: text;
+    color: transparent;
+}
+.visit{
+    background-color: #9eb23b;
+}
+.visit:hover{
+    background-color: #8a9e23;
+}
+.delete{
+    background-color: #eb1d36;
+}
+.delete:hover
+{
+    background-color:#d30820 ;
+}
+.btn-submit{
+    color: white;
+    background-color: #d1512d;
+}
+.btn-submit:hover{
+    color: white;
+    background-color:#bb4120;
+}
+.update
+{
+    background-color: rgba(0, 128, 0, 0.877);
+}
+.update:hover
+{
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
